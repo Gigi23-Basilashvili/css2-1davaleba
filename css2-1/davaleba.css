@@ -1,0 +1,112 @@
+#divheader {
+    height: auto;
+    display: inline-block;
+    width: 100%;
+    padding: 12px 80px 12px 80px;
+}
+#divnextmove {
+    display: inline-block;
+    padding: 13.5px;
+}
+#divproduct {
+    display: inline-block;
+    margin-left: 150px;
+    vertical-align: top;
+    margin-top: 12px;
+}
+#first {
+    font-size: 18px;
+    vertical-align: middle;
+}
+#divservices {
+    display: inline-block;
+    margin-left: 40px;
+    vertical-align: top;
+    margin-top: 12px;
+}
+#second {
+    font-size: 18px;
+}
+#divrecourses {
+    display: inline-block;
+    margin-left: 40px;
+    vertical-align: top;
+    margin-top: 12px;
+}
+#third {
+    font-size: 18px;
+}
+#divoffers {
+    display: inline-block;
+    margin-left: 40px;
+    vertical-align: top;
+    margin-top: 12px;
+}
+#fourth {
+    font-size: 18px;
+}
+#divbutton {
+    display: inline-block;
+    margin-left: 150px;
+    vertical-align: top;
+    margin-top: 30px;
+}
+#contactbutton {
+    color: #AC00FF;
+    background-color: #E9D7FE;
+    border-radius: 8px;
+    border-color: #AC00FF;
+}
+#info {
+    margin-top: 76px;
+    margin-left: 134px;
+    width: 841px;
+}
+#text {
+    font-size: 64px;
+}
+#divtext {
+    width: 720px;
+}
+#divdetails {
+    width: 100%;
+}
+#details {
+    font-size: 24px;
+}
+#divjoin {
+    width: 204px;
+    padding: 16px 24px;
+    background-color:#5C3BAE ;
+    border-radius: 8px;
+    display: inline-block;
+}
+#buttonjoin {
+    background-color: #5C3BAE;
+    border: transparent;
+    margin-left: 65px;
+    color: aliceblue;
+    display: inline-block;
+}
+#watch {
+    vertical-align: top;
+    
+    width: 32px;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 15px
+    
+}
+#secondinfo {
+    display:inline-block;
+    color: #5C3BAE;
+    vertical-align: top;
+}
+#cardimg {
+width: 1300px;
+margin-left: 600px;
+}
+
+
+
+
